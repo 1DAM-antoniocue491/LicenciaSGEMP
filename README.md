@@ -62,7 +62,8 @@ Esto evita que empresas privadas tomen el software, lo modifiquen y lo ofrezcan 
 
 **Nombre comercial:** *AgroCoop Manager*  
 **Lema:** *“Digitaliza tu cooperativa, comparte conocimiento.”*  
-**Logotipo:** 🌿 *(Un diseño que combina una aceituna y un engranaje, simbolizando la unión entre tradición y tecnología.)*
+**Logotipo:**
+![Imagen](agrocopLogo.png)
 
 ---
 
